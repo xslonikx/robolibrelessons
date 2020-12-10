@@ -4,7 +4,7 @@
 
 
 Доступные на данный момент материалы:  
-[IR Remote Demo](https://bitbucket.org/robolibre161/robolessonsarduino/src/main/IRDevice_demo/)  
+[IR Remote Demo](https://github.com/xslonikx/robolibrelessons/tree/main/IRDevice_demo)  
 
 
 # Информация о лицензии на материалы   
